@@ -1,0 +1,20 @@
+body {
+    font-family: 'Open Sans';
+    size: 1rem;
+    color:black;
+    align-content: center;
+}
+
+#searchBar {
+    display: block;
+    width: 100%;
+    height: 50px;
+}
+
+#clearButton {
+    widows: 30%;
+}
+
+#searchResults {
+    width: 100%;
+}
